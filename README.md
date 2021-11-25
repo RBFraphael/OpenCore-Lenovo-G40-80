@@ -29,3 +29,4 @@ Working:
 
 Not working or not testes:
 - Airdrop
+- Dedicated GPU
