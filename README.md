@@ -27,6 +27,6 @@ Working:
 - USBs
 - Webcam
 
-Not working or not testes:
+Not working or not tested:
 - Airdrop
 - Dedicated GPU
