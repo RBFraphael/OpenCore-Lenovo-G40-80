@@ -2,7 +2,7 @@
 OpenCore for hackintosh on Lenovo G40-80 laptop
 
 ### OpenCore 0.7.5
-EFI updated on 25.11.2021. Tested up to Big Sur 11.6.1
+EFI updated on 26.11.2021. Tested up to Monterey 12.0.1
 
 ### Hardware
 - CPU: Intel Core i5 5200U
@@ -15,8 +15,6 @@ EFI updated on 25.11.2021. Tested up to Big Sur 11.6.1
 
 ### Overview
 Working:
-- Wifi
-- Bluetooth
 - Battery
 - Touchpad with gestures (recognized as trackpad)
 - Keyboard
@@ -28,5 +26,7 @@ Working:
 - Webcam
 
 Not working or not tested:
+- Wifi
+- Bluetooth
 - Airdrop
 - Dedicated GPU
