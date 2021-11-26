@@ -28,5 +28,6 @@ Working:
 Not working or not tested:
 - Wifi
 - Bluetooth
+- Sleep / Hibernation / Suspend
 - Airdrop
 - Dedicated GPU
