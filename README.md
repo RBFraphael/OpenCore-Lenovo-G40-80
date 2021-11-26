@@ -26,6 +26,7 @@ Working:
 - Headphones
 - USBs
 - Webcam
+- Sleep / Hibernation / Suspend
 
 Not working or not tested:
 - Airdrop
